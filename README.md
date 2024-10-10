@@ -48,11 +48,6 @@ cd client
 npm install
 App
 
-bash
-Copy code
-cd app
-npm install
-ML
 
 bash
 Copy code
@@ -81,3 +76,12 @@ cd ml
 python app.py
 5. Access the Application
 Web App: Open your web browser and go to http://localhost:3000.
+
+
+
+![Desktop Screenshot 1](./Images/Desktop-1.png)
+![Desktop Screenshot 2](./Images/Desktop-2.png)
+![Mobile Screenshot 1](./Images/Desktop-3.png)
+![Desktop Screenshot 1](./Images/Desktop-4.png)
+![Desktop Screenshot 2](./Images/Desktop-5.png)
+![Mobile Screenshot 1](./Images/Desktop-6.png)
